@@ -1,3 +1,5 @@
+![Yandex Praktikum](https://sun9-79.userapi.com/impf/xZpU-hlLA2D9nJyOgzdpzuYkhtS0DXo1UrQnXg/ROQJjyeeUl0.jpg?size=968x480&quality=96&sign=5f1a5cbb8e049e2e27352abc9539b518&type=share)
+
 # Проект: Путешествие по России
 
 ### Обзор

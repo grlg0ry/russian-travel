@@ -1,0 +1,8 @@
+.header__links {
+    display: flex;
+    gap: 18px;
+    list-style-type: none;
+    margin: 0;
+    padding-bottom: 6px;
+    padding: 0;
+}
