@@ -1,7 +1,25 @@
 .cover {
-    border: solid red 1px;
-    /* height: calc(100vw / 16 * 9); */
+    display: grid;
+    grid-gap: 32px;
+    grid-template-rows: repeat(2, min-content);
     margin: 0 auto;
     max-width: 1184px;
-    padding: 92px 48px 92px 48px;
+    position: relative;
+    padding: 92px 48px 0 48px;
+}
+  
+.cover:before {
+    background-color: #2A2C2F;
+    content: '';
+    height: 100%;
+    left: 0;
+    opacity: .3;
+    position: absolute;
+    top: 0;
+    transition: .3s ease;
+    width: 100%;
+}
+  
+.cover:hover::before {
+    opacity: .8;
 }
