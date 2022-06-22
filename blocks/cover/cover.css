@@ -6,6 +6,7 @@
     max-width: 1184px;
     position: relative;
     padding: 92px 48px 0 48px;
+    border: solid red 1px;
 }
   
 .cover:before {

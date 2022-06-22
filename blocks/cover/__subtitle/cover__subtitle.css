@@ -9,4 +9,5 @@
     max-width: 360px;
     text-align: center;
     z-index: 1;
+    border: solid red 1px;
 }
