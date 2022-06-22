@@ -1,0 +1,13 @@
+.cover__background {
+    align-items: center;
+    background-image: url("/images/cover_trains_overlay.png");
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* max-width: 100%; */
+    padding-top: 62.6%;
+    position: relative;
+    text-decoration: none;
+}

@@ -5,4 +5,5 @@
     margin: 0;
     max-width: calc(100% - 96px);
     padding: 92px 48px 24px 48px;
+    border: solid red 1px;
 }

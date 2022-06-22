@@ -5,6 +5,7 @@
     gap: 32px;
     justify-content: space-between;
     padding: 28px 48px 0 48px;
+    border: solid red 1px;
 }
 
 @media (max-width: 769px) {

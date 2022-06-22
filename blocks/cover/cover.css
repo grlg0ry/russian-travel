@@ -1,0 +1,7 @@
+.cover {
+    border: solid red 1px;
+    margin: 0;
+    max-width: calc(100% - 96px);
+    height: calc(100vw / 16 * 9);
+    padding: 92px 48px 92px 48px;
+}
