@@ -23,3 +23,6 @@
 Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
 
 Удачи!
+
+
+![Footer](https://www.seekpng.com/png/full/272-2724686_black-and-white-footer.png)
