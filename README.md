@@ -25,4 +25,4 @@
 Удачи!
 
 
-![Footer](https://www.seekpng.com/png/full/272-2724686_black-and-white-footer.png)
+![Footer](https://consolidatedoffice.ca/wp-content/themes/options/images/skins/footers/full_width/footer-jetBlack.jpg)
