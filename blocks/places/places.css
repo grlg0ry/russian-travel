@@ -1,0 +1,9 @@
+.places {
+    border: solid red 1px;
+    display: grid;
+    gap: 80px;
+    margin: 0 auto;
+    max-width: calc(100% - 296px);
+    padding-bottom: 92px;
+    padding-top: 92px;
+}
