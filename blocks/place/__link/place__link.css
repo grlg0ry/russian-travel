@@ -6,6 +6,7 @@
     margin: 0;
     text-decoration: underline;
     transition: transform 4s ease-in-out;
+    border: solid red 1px;
 }
 
 .place__link:hover {
