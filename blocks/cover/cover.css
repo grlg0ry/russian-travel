@@ -1,5 +1,11 @@
 .cover {
     border: solid red 1px;
-    max-width: 1184px;
     margin: 0 auto;
+    max-width: 1184px;
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    .cover {
+      max-width: 100%;
+    }
 }
