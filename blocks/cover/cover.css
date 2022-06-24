@@ -1,11 +1,32 @@
 .cover {
-    border: solid red 1px;
-    margin: 0 auto;
-    max-width: calc(100% - 96px);
+  border: solid red 1px;
+  display: grid;
+  grid-gap: 32px;
+  grid-template-rows: repeat(2, min-content);
+  margin: 0 auto;
+  position: relative;
+  max-width: 1184px;
+}
+
+.cover:before {
+  background: #2A2C2F;
+  bottom: 0;
+  content: '';
+  left: 0;
+  opacity: 0.3;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transition: opacity 0.4s linear;
+  z-index: -1;
+}
+
+.cover:hover::before {
+  opacity: 0.8;
 }
 
 @media (min-width: 769px) and (max-width: 1024px) {
-    .cover {
-      max-width: 100%;
-    }
+  .cover {
+    grid-gap: 16px;
+  }
 }

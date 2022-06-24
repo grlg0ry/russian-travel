@@ -3,8 +3,31 @@
     font-size: 96px;
     font-weight: 900;
     line-height: 100px;
-    margin: 0 auto 56px;
+    margin: 0 auto;
     max-width: 720px;
     text-align: center;
-    border: solid red 1px;
+    padding-bottom: 32px;
+}
+
+@media screen and (max-width: 767px) {
+    .lead__title {
+        font-size: 12vw;
+        line-height: 1.15;
+        max-width: 90%;
+    }
+}
+  
+@media screen and (max-width: 320px) {
+    .lead__title {
+        font-size: 40px;
+        line-height: 44px;
+        padding-bottom: 16px;
+    }
+}
+
+@media screen and (max-width: 319px) {
+    .lead__title {
+      font-size: 12vw;
+      line-height: 1.15;
+    }
 }

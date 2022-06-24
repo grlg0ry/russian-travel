@@ -1,11 +1,10 @@
 .header {
     align-items: flex-end;
-    border: solid red 1px;
     display: flex;
     gap: 32px;
     justify-content: space-between;
     margin: 0 auto;
-    max-width: calc(100% - 96px);
+    max-width: 1184px;
     padding-top: 28px;
 }
   

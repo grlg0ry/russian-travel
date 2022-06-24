@@ -2,9 +2,8 @@
     display: flex;
     justify-content: space-between;
     margin: 0 auto;
-    max-width: calc(100% - 96px);
+    max-width: 1184px;
     padding-bottom: 24px;
-    border: solid red 1px;
 }
 
 @media screen and (max-width: 1279px) {
