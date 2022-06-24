@@ -1,9 +1,13 @@
 .footer__list-link {
     gap: 18px;
-    align-content: center;
     display: flex;
-    flex-wrap: wrap;
     list-style: none;
     padding: 0;
     border: solid red 1px;
+}
+
+@media screen and (max-width: 767px) {
+    .footer__list-link {
+        flex-direction: column;
+    }
 }
