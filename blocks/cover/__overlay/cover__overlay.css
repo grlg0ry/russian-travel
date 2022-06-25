@@ -1,16 +1,9 @@
 .cover__overlay {
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-image: url(../../../images/trains.jpg);
     background-position: center;
     background-size: cover;
-    background: url("/images/trains.jpg");
     grid-column: 1/2;
     grid-row: 1/3;
-    min-height: 740px;
-}
-
-@media screen and (max-width: 320px) {
-    .cover__overlay {
-        min-height: 200px;
-        background-position: center;
-        background-size: cover;
-    }
 }

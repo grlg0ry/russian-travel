@@ -8,16 +8,15 @@
 }
 
 .cover:before {
-  background: #2A2C2F;
-  bottom: 0;
   content: '';
+  background-color: #2A2C2F;
+  bottom: 0;
   left: 0;
-  opacity: 0.3;
+  opacity: .3;
   position: absolute;
   right: 0;
   top: 0;
-  transition: opacity 0.4s linear;
-  z-index: -1;
+  transition: 0.4s linear;
 }
 
 .cover:hover::before {
