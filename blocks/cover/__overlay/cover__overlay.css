@@ -1,7 +1,7 @@
 .cover__overlay {
     -moz-background-size: cover;
     -webkit-background-size: cover;
-    background-image: url(../../../images/trains.jpg);
+    background-image: url("../../../images/trains.jpg");
     background-position: center;
     background-size: cover;
     grid-column: 1/2;
