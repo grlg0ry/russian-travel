@@ -9,6 +9,7 @@
     grid-column: 1;
     z-index: 1;
     justify-self: center;
+    padding-top: 32px;
 }
 
 @media screen and (max-width: 767px) {
@@ -24,6 +25,7 @@
     font-size: 14px;
     line-height: 16px;
     max-width: 81%;
+    padding-top: 16px;
   }
 }
 

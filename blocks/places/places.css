@@ -17,6 +17,7 @@
     .places {
         gap: 73px;
         max-width: 93.75%;
+        padding-bottom: 90px;
         padding-top: 88px;
     }
 }
@@ -30,7 +31,7 @@
 @media screen and (max-width: 320px) {
     .places {
         gap: 50px;
-        padding-bottom: 64px;
+        padding-bottom: 0;
         padding-top: 64px;
     }
 }
