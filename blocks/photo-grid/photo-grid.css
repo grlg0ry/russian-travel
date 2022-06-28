@@ -10,7 +10,6 @@
     .photo-grid {
       grid-gap: 14px;
       grid-template-columns: repeat(3, 1fr);
-      max-width: calc(100% - 96px);
     }
   }
 
